@@ -1,10 +1,11 @@
 # Curso em Vídeo de Python
 
-Bem-vindo à pasta do Curso em Vídeo de Python!.Aqui você encontrará os códigos das aulas e dos mais de 100 exercicios do curso de python do professor @gustavoguanabara
+Bem-vindo à pasta do Curso em Vídeo de Python!.Aqui você encontrará os códigos das aulas e dos mais de 100 exercicios do curso de python do professor 
+[@gustavoguanabara](https://github.com/gustavoguanabara)
 
 ## Conteudo
 
-O professor @gustavoguanabara decidiu fazer uma experiência gameficada em sua didática para esse curso
+O professor [@gustavoguanabara](https://github.com/gustavoguanabara) decidiu fazer uma experiência gameficada em sua didática para esse curso
 por isso ele dividio conteudo em mundos sendo eles
 
 1. **Mundo 1**: O primeiro mundo apresenta o fundamentos da linguagem python 
